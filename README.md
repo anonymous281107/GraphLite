@@ -1,7 +1,7 @@
 # Towards Enhancing Low Vision Usability of Data Charts on Smartphones
 
 ## GraphLite Demo (Video) :
-[![IMAGE ALT TEXT HERE](Supplementary_Material/Images/GraphLite.png)](https://youtu.be/HPlYSgLkGaA)
+[![IMAGE ALT TEXT HERE](Supplementary_Material/Images/GraphLite.png)](https://youtu.be/QFw5QH7FwNY)
 
 
 

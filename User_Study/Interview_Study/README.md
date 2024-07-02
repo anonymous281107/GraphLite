@@ -18,3 +18,8 @@ The participants were also allowed to illustrate the interaction issues over the
 ## Table : Participant demographics for the interview study. The participants self-reported all information.
 
 ![Alt text](Interview_Demographics.png)
+
+</br>
+
+## Data Sources
+![Alt text](../../Images/PieCharts.jpeg)

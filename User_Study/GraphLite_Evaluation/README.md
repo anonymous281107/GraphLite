@@ -20,3 +20,17 @@ The experimenter first obtained the participant’s formal consent before briefl
 Note : All information was self-reported
 
 ![Alt text](Evaluation_Study.png)
+</br>
+</br>
+
+## Completion Rate and Usability 
+![Alt text](../../Images/Completion.jpeg)
+### There are three figures in the picture. The first figure (a) shows the Completion rate (in \%). The second figure (b) presents the boxplots for the TLX scores in all five study conditions. The last figure(c) presents the boxplots for the SUS scores in all five study conditions.
+
+</br>
+</br> 
+
+## Accuracy
+![Alt text](../../Images/Error.jpeg)
+### This figure depicts task accuracy in bar and line chart analyses: comparative and filtration accuracy in bar charts and trend prediction accuracy in line charts, demonstrating participants' analytical proficiency.
+

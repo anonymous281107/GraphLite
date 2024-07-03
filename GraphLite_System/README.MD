@@ -1,3 +1,7 @@
+# Implementation Details
+
+## [ChartOCR](https://drive.google.com/file/d/1PkD6tkdwcycjFNqCzIi7TeXKw6AhEF54/view?usp=sharing)
+
 ## Space Compaction
 
 ![Alt text](../Images/SpaceCompaction.jpeg)
